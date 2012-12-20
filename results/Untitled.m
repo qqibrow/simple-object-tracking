@@ -1,0 +1,6 @@
+clear
+
+x = drawExpCurve('girl');
+
+ 
+
